@@ -6,7 +6,7 @@ Hi, I'm @tayshialyn, a professional with a background in food science & nutritio
 
 🌱 Currently, I'm on a journey to become a Full Stack Developer. I'm fascinated by the versatility of this role and the opportunity to build user-friendly applications while solving complex problems logically.
 
-💞️ I'm looking to collaborate on projects that involve building impactful solutions for end-users, especially in the health industry, where I can leverage my previous domain knowledge and software engineering experience.
+💞️ I'm looking to collaborate on projects that involve building impactful solutions for end-users, perhaps in the health industry, where I can leverage my previous domain knowledge and software engineering experience.
 
 ⚡ Fun Fact: I enjoy exploring new cuisines and experimenting with recipes in my free time!
 
