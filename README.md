@@ -11,7 +11,7 @@ Hi, I'm @tayshialyn, a professional with a background in food science & nutritio
 ⚡ Fun Fact: I enjoy exploring new cuisines and experimenting with recipes in my free time!
 
 ## Future Goals
-In the next 2-3 years, I aim to develop small web-based applications and contribute to larger systems, building a solid portfolio in the tech industry. 
+In the next 2-3 years, I aim to develop small apps and contribute to larger systems and/or workflows, building a solid tech knowledge and portfolio.
 
 ## Transferable Skills
 My prior experience has equipped me with valuable transferable skills such as data analysis, attention to detail, project management, and navigating complex regulatory frameworks. These skills will be instrumental in maintaining code quality, adhering to industry standards, and developing robust applications.
